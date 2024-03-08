@@ -1,0 +1,46 @@
+{
+    "schedule": [
+        {
+            "class_name": "AP Pychology",
+            "teacher_name": "Mr. Tependino",
+            "room_number": "E105",
+            "days": ["A", "B", "D", "E", "G"]
+        },
+        {
+            "class_name": "Honors NJIT IS219 Advanced Website Development",
+            "teacher_name": "Mr. Gasior",
+            "room_number": "B114",
+            "days": ["A", "B", "D", "E", "F"]
+        },
+        {
+            "class_name": "English IV",
+            "teacher_name": "Mrs. Rattien",
+            "room_number": "E103",
+            "days": ["A", "C", "D", "E", "G"]
+        },
+        {
+            "class_name": "Precalculus",
+            "teacher_name": "Ms. Pandolfo",
+            "room_number": "D203",
+            "days": ["B", "C", "E", "F", "G"]
+        },
+        {
+            "class_name": "Fine Art 1",
+            "teacher_name": "Mr.Sharkey",
+            "room_number": "A103",
+            "days": ["A", "B", "C", "E" , "F"]
+        },
+        {
+            "class_name": "Honors Anatomy and Physiology",
+            "teacher_name": "Mr. Ollinger",
+            "room_number": "C204",
+            "days": ["B", "C", "D", "F", "G"]
+        },
+        {
+            "class_name": "Phys Ed 12",
+            "teacher_name": "Mrs. Hasting",
+            "room_number": "GYM",
+            "days": ["A", "C", "D", "F", "G"]
+        }
+    ]
+} 
