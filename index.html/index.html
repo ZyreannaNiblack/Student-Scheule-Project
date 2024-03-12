@@ -68,7 +68,24 @@
                 });
             });
         });
+        scheduleHTML += "</tbody></table>";
+
+// Display the filtered schedule
+$("#scheduleDisplay").html(scheduleHTML);
+
+
+// Event listener for the dropdown selector
+$("#daySelector").change(function() {
+var selectedDay = $(this).val();
+displaySchedule(selectedDay);
+
+
+// Display the full schedule initially
+displaySchedule("all");
+
+}); 
     </script>
+   
     
 </body>
 </html> 
